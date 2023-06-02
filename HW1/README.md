@@ -9,8 +9,7 @@ Title: Homework 1 in CS531 on Spring 2022 at GMU
 - int checkLegalCharacters(): Verify that there are no illegal characters such as "!," "@," "#," "$," "%," "," "(," or ")."
 - void checkDuplicate(): Check that no strings are duplicated.
 - rising voidSort and display the output using the char sortOrder function.
-
-The program can be compiled using gcc, and it easily reads using vi.
+- The program can be compiled using gcc, and it easily reads using vi.
 
 
 
