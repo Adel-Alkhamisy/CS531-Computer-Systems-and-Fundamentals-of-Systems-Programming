@@ -18,9 +18,10 @@ The user will see the following menu options after creating the linked list:
 8) Quit
 
  usage: 
-- Click on HW2.c - Click on Download raw file 
-- Move the file from the Download folder to a specific folder of your choice i.e. /Users/username/Desktop/HW2.c; replace username with your username on your computer. 
-- Open the terminal and navigate to the folder that contains the HW2.c file. This will depend on your operating system. On Windows, you can use Command Prompt or PowerShell. On macOS and Linux, you can use Terminal. i.e. cd /path/to/your/directory that contains HW2.c 
+- Click on HW2.c and CS531_Inet.txt 
+- - Click on Download raw file, and Download both files (HW2.c and CS531_Inet.txt) 
+- Move the files from the Download folder to a specific folder of your choice i.e. /Users/username/Desktop/HW2.c and Users/username/Desktop/CS531_Inet.txt; replace username with your username on your computer. 
+- Open the terminal and navigate to the folder that contains the HW2.c file and CS531_Inet.txt file. This will depend on your operating system. On Windows, you can use Command Prompt or PowerShell. On macOS and Linux, you can use Terminal. i.e. cd /path/to/your/directory that contains HW2.c and CS531_Inet.txt. 
 - Compile the C File: Use the gcc command followed by the name of your C file, then -o, and finally the name you want for your output file. The -o option allows you to specify the output file name. i.e. gcc HW2.c -o anyNameOfYourChoice 
 - then use ./anyNameOfYourChoice 
 - Then the program will be running and you can test it as you like.
