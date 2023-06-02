@@ -11,5 +11,10 @@ Title: Homework 1 in CS531 on Spring 2022 at GMU
 - rising voidSort and display the output using the char sortOrder function.
 - The program can be compiled using gcc, and it easily reads using vi.
 
-
-
+ usage: 
+- Click on HW1.c - Click on Download raw file 
+- Move the file from the Download folder to a specific folder of your choice i.e. /Users/username/Desktop/HW1.c; replace username with your username on your computer. 
+- Open the terminal and navigate to the folder that contains the HW1.c file. This will depend on your operating system. On Windows, you can use Command Prompt or PowerShell. On macOS and Linux, you can use Terminal. i.e. cd /path/to/your/directory that contains HW1.c 
+- Compile the C File: Use the gcc command followed by the name of your C file, then -o, and finally the name you want for your output file. The -o option allows you to specify the output file name. i.e. gcc HW1.c -o anyNameOfYourChoice 
+- then use ./anyNameOfYourChoice 
+- Then the program will be running and you can test it as you like.
